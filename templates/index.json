@@ -59,85 +59,40 @@
         "remove_content_padding": false
       }
     },
-    "scrolling_logos_izXLyX": {
-      "type": "scrolling-logos",
+    "featured_collections_gjAqUz": {
+      "type": "featured-collections",
       "blocks": {
-        "slide_kWRbM8": {
-          "type": "slide",
+        "collection_NhxHwQ": {
+          "type": "collection",
           "settings": {
-            "image_width": "140",
-            "image_height": "28.11",
-            "link": ""
-          }
-        },
-        "slide_r8dqgg": {
-          "type": "slide",
-          "settings": {
-            "image_width": "80",
-            "image_height": "33.92",
-            "link": ""
-          }
-        },
-        "slide_TreQfe": {
-          "type": "slide",
-          "settings": {
-            "image_width": "120",
-            "image_height": "28",
-            "link": ""
-          }
-        },
-        "slide_488n8a": {
-          "type": "slide",
-          "settings": {
-            "image_width": "160",
-            "image_height": "29.6",
-            "link": ""
-          }
-        },
-        "slide_U6RxCh": {
-          "type": "slide",
-          "settings": {
-            "image_width": "120",
-            "image_height": "40",
-            "link": ""
+            "collection": "crispycousins-haarwachs",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "View all",
+            "style": "solid",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "Button text",
+            "url": "",
+            "background": "",
+            "text_color": ""
           }
         }
       },
       "block_order": [
-        "slide_kWRbM8",
-        "slide_r8dqgg",
-        "slide_TreQfe",
-        "slide_488n8a",
-        "slide_U6RxCh"
+        "collection_NhxHwQ"
       ],
       "settings": {
-        "ss-title": "",
-        "heading_custom": false,
-        "heading_font": "assistant_n4",
-        "header_size": 30,
-        "header_align": "center",
-        "scrolling_velocity": 20,
-        "pause_hover": false,
-        "shadow": false,
-        "sliders_mt": 0,
-        "logo_padding_top": 0,
-        "logo_padding_bottom": 0,
-        "slider_gap": 68,
-        "slider_gap_mobile": 68,
-        "slider_direction": "left",
-        "icon_width": 140,
-        "header_color": "#121212",
-        "border_color": "#ffffff",
-        "background-color": "#faf9f7",
-        "slider-background-color": "#faf9f7",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0,
-        "lazy": true
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "show_content_inrow": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3.5,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "Featured collection"
       }
     },
     "featured_collections_b7Ehpq": {
@@ -625,7 +580,7 @@
   },
   "order": [
     "image_with_text_yHXamJ",
-    "scrolling_logos_izXLyX",
+    "featured_collections_gjAqUz",
     "featured_collections_b7Ehpq",
     "image_with_text_Q6Q7Ea",
     "features_section_nn3XX8",
