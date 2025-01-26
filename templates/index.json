@@ -59,42 +59,6 @@
         "remove_content_padding": false
       }
     },
-    "featured_collections_gjAqUz": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_NhxHwQ": {
-          "type": "collection",
-          "settings": {
-            "collection": "crispycousins-haarwachs",
-            "products_count": 8,
-            "title": "",
-            "link_url": "",
-            "link_text": "View all",
-            "style": "solid",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "text": "Button text",
-            "url": "",
-            "background": "",
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_NhxHwQ"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "show_content_inrow": false,
-        "stack_products": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3.5,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": "Featured collection"
-      }
-    },
     "featured_collections_b7Ehpq": {
       "type": "featured-collections",
       "blocks": {
@@ -580,7 +544,6 @@
   },
   "order": [
     "image_with_text_yHXamJ",
-    "featured_collections_gjAqUz",
     "featured_collections_b7Ehpq",
     "image_with_text_Q6Q7Ea",
     "features_section_nn3XX8",
