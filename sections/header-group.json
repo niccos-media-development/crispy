@@ -17,20 +17,19 @@
         "announcement_kPfyyi": {
           "type": "announcement",
           "settings": {
-            "text": "<p>Kostenlose Lieferung ab 70€</p>"
+            "text": "<p>Lieferzeit 2-3 Werktage</p>"
           }
         },
         "announcement_EdTKVt": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "<p>Über 300.000 zufriedene Kunden</p>"
+            "text": "<p>Über 100.000 zufriedene Kunden</p>"
           }
         },
         "announcement_3GBQpd": {
           "type": "announcement",
           "settings": {
-            "text": "<p>Nr.1 Parfümöle in Deutschland</p>"
+            "text": "<p>Nr.1 Haarwachs in Deutschland</p>"
           }
         }
       },
@@ -39,7 +38,6 @@
         "announcement_EdTKVt",
         "announcement_3GBQpd"
       ],
-      "disabled": true,
       "settings": {
         "background_color": "#000000",
         "text_color": "#ffffff",
@@ -81,7 +79,7 @@
         "logo": "shopify://shop_images/crispylogo.png",
         "logo_max_width": 105,
         "logo_mobile_max_width": 95,
-        "menu": "",
+        "menu": "hauptmenue",
         "sidebar_menu": "",
         "menu_open_trigger": "hover",
         "menu_text_font": "heading",
